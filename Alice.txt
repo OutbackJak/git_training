@@ -1,5 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is a remote change.  This line was added via GitHub site.
+Let's try this again.  And this time, with feeling!
 ...Several times.
 Too.  Many.  Commits... !
 More conflicts!  More, I say!
